@@ -1,0 +1,8 @@
+Connector/ODBC - Login
+
+Data Sources Name	: konek_dbkampus
+Description		: -
+Server			: -
+User			: root
+Password		: -
+Database		: db_kampus

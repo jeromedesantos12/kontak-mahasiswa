@@ -1,0 +1,15 @@
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak_Mahasiswa.Form1.resources
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak_Mahasiswa.Resources.resources
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak Mahasiswa.vbproj.GenerateResource.Cache
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\bin\Debug\Kontak Mahasiswa.exe
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\bin\Debug\Kontak Mahasiswa.pdb
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\bin\Debug\Kontak Mahasiswa.xml
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak_Mahasiswa.Form2.resources
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak Mahasiswa.exe
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak Mahasiswa.xml
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak Mahasiswa.pdb
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak_Mahasiswa.Form3.resources
+D:\LEPISI\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak_Mahasiswa.Form4.resources
+D:\LEPISI\Smt 6\Materi\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak Mahasiswa.exe
+D:\LEPISI\Smt 6\Materi\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak Mahasiswa.xml
+D:\LEPISI\Smt 6\Materi\Program Visual Basic Net\Praktek\UAS\Kontak Mahasiswa\Kontak Mahasiswa\Kontak Mahasiswa\obj\x86\Debug\Kontak Mahasiswa.pdb
